@@ -1,0 +1,67 @@
+{
+  "deck_name": "Cloze - Programming Concepts",
+  "tags": ["programming", "cloze", "concepts"],
+  "card_type": "cloze",
+  "cards": [
+    {
+      "front": "{{c1::Async}} functions allow code to run without blocking the {{c2::main thread}}, enabling better performance.",
+      "back": "",
+      "image": null,
+      "skip": false
+    },
+    {
+      "front": "A {{c1::callback}} function is passed as an argument to another function and executed {{c2::later}}, often used in asynchronous operations.",
+      "back": "",
+      "image": null,
+      "skip": false
+    },
+    {
+      "front": "The {{c1::DOM}} ({{c2::Document Object Model}}) represents the structure of HTML documents as a tree of objects.",
+      "back": "",
+      "image": null,
+      "skip": false
+    },
+    {
+      "front": "{{c1::REST}} stands for {{c2::Representational State Transfer}}, an architectural style for web APIs.",
+      "back": "",
+      "image": null,
+      "skip": false
+    },
+    {
+      "front": "In Object-Oriented Programming, {{c1::encapsulation}} means bundling data and methods that operate on that data within a {{c2::single unit}}.",
+      "back": "",
+      "image": null,
+      "skip": false
+    },
+    {
+      "front": "{{c1::Git}} is a {{c2::distributed}} version control system used for tracking changes in source code.",
+      "back": "",
+      "image": null,
+      "skip": false
+    },
+    {
+      "front": "A {{c1::SQL injection}} attack occurs when malicious {{c2::SQL code}} is inserted into application queries.",
+      "back": "",
+      "image": null,
+      "skip": false
+    },
+    {
+      "front": "{{c1::CI/CD}} stands for {{c2::Continuous Integration}} and {{c3::Continuous Deployment}}, automating the software delivery process.",
+      "back": "",
+      "image": null,
+      "skip": false
+    },
+    {
+      "front": "In agile methodology, a {{c1::sprint}} is a time-boxed period, typically {{c2::2-4 weeks}}, for completing a set amount of work.",
+      "back": "",
+      "image": null,
+      "skip": false
+    },
+    {
+      "front": "{{c1::Docker}} is a platform that uses {{c2::containerization}} to package applications with their dependencies.",
+      "back": "",
+      "image": null,
+      "skip": false
+    }
+  ]
+}

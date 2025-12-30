@@ -1,19 +1,39 @@
 {
-  "deck_name": "English Vocabulary",
-  "tags": ["english", "vocabulary"],
+  "deck_name": "English in Action: Tech & Business",
+  "tags": ["english", "vocabulary", "tech"],
+  "card_type": "basic",
   "cards": [
     {
-      "front": "What does 'debug' mean?",
-      "back": "<b>debug</b><br><br>Nghĩa: tìm và sửa lỗi<br>Example: We need to debug the authentication system before deployment."
+      "front": "What does '<b>debug</b>' mean in programming?",
+      "back": "<div style='font-size:16px'><b style='color:#2196F3; font-size:18px'>debug</b> /diːˈbʌɡ/</div><br><b>Nghĩa:</b> Tìm và sửa lỗi trong code<br><br><b>Example:</b><br><i>We need to <u>debug</u> the authentication system before deployment.</i><br><i>The developer spent hours <u>debugging</u> the memory leak issue.</i><br><br><b>Collocation:</b><ul><li>debug code/system/issue</li><li>debugging tools</li><li>debug mode</li></ul>",
+      "image": null,
+      "skip": false
     },
     {
-      "front": "Translate: 'deploy'",
-      "back": "<b>deploy</b><br><br>Nghĩa: triển khai<br>Collocation: deploy application/code<br>Example: We will deploy the new version tomorrow."
+      "front": "What does '<b>deploy</b>' mean?",
+      "back": "<div style='font-size:16px'><b style='color:#2196F3; font-size:18px'>deploy</b> /dɪˈplɔɪ/</div><br><b>Nghĩa:</b> Triển khai, đưa vào sử dụng<br><br><b>Example:</b><br><i>We will <u>deploy</u> the new version to production tomorrow.</i><br><i>The team successfully <u>deployed</u> the application to AWS.</i><br><br><b>Collocation:</b><ul><li>deploy application/code</li><li>deploy to production</li><li>deployment pipeline</li></ul>",
+      "image": null,
+      "skip": false
     },
     {
-      "front": "What is 'refactor'?",
-      "back": "<b>refactor</b><br><br>Nghĩa: tái cấu trúc code<br>Context: Improving code structure without changing behavior",
-      "tags": ["programming", "tech"]
+      "front": "What is '<b>refactor</b>'?",
+      "back": "<div style='font-size:16px'><b style='color:#2196F3; font-size:18px'>refactor</b> /riːˈfæktə/</div><br><b>Nghĩa:</b> Tái cấu trúc code để cải thiện chất lượng mà không thay đổi chức năng<br><br><b>Example:</b><br><i>Let's <u>refactor</u> this codebase to improve maintainability.</i><br><i>The legacy code needs to be <u>refactored</u> for better performance.</i><br><br><b>Why refactor?</b><ul><li>Improve code readability</li><li>Reduce complexity</li><li>Easier maintenance</li></ul>",
+      "tags": ["programming", "tech"],
+      "image": null,
+      "skip": false
+    },
+    {
+      "front": "What does '<b>optimize</b>' mean?",
+      "back": "<div style='font-size:16px'><b style='color:#2196F3; font-size:18px'>optimize</b> /ˈɒptɪmaɪz/</div><br><b>Nghĩa:</b> Tối ưu hóa, làm cho hiệu quả nhất<br><br><b>Example:</b><br><i>We need to <u>optimize</u> the database queries to reduce loading time.</i><br><i>The algorithm was <u>optimized</u> to handle millions of requests.</i><br><br><b>Collocation:</b><ul><li>optimize performance</li><li>optimize for speed</li><li>optimization techniques</li></ul>",
+      "image": null,
+      "skip": false
+    },
+    {
+      "front": "What is '<b>scalability</b>'?",
+      "back": "<div style='font-size:16px'><b style='color:#2196F3; font-size:18px'>scalability</b> /ˌskeɪləˈbɪləti/</div><br><b>Nghĩa:</b> Khả năng mở rộng quy mô của hệ thống<br><br><b>Example:</b><br><i>The system was designed with <u>scalability</u> in mind.</i><br><i>Cloud infrastructure provides better <u>scalability</u> than traditional servers.</i><br><br><b>Types:</b><ul><li>Horizontal scalability (scale out)</li><li>Vertical scalability (scale up)</li></ul>",
+      "tags": ["system-design"],
+      "image": null,
+      "skip": false
     }
   ]
 }

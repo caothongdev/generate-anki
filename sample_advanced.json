@@ -1,0 +1,63 @@
+{
+  "deck_name": "Advanced English Learning - Tech Vocabulary",
+  "tags": ["english", "advanced", "tech"],
+  "card_type": "type",
+  "use_advanced_template": true,
+  "cards": [
+    {
+      "card_no": "001",
+      "suggestion": "Hint: Find and fix errors",
+      "explanation": "We need to [...] the authentication system before deployment.",
+      "keyword": "debug",
+      "transcription": "/diːˈbʌɡ/",
+      "short_meaning": "to find and remove errors from computer code",
+      "full_meaning": "<b>Definition:</b> To search for and eliminate malfunctioning elements or errors in computer hardware or software.<br><br><b>Examples:</b><br>• The developer spent hours debugging the memory leak.<br>• Always debug your code before pushing to production.<br><br><b>Synonyms:</b> troubleshoot, fix, repair<br><b>Related:</b> debugger (n), debugging (n)",
+      "image": null,
+      "skip": false
+    },
+    {
+      "card_no": "002",
+      "suggestion": "Hint: Put into use",
+      "explanation": "The team will [...] the new version to production servers tomorrow.",
+      "keyword": "deploy",
+      "transcription": "/dɪˈplɔɪ/",
+      "short_meaning": "to move software from development to production environment",
+      "full_meaning": "<b>Definition:</b> To install, configure, and make software available for use in a production environment.<br><br><b>Examples:</b><br>• We deploy updates every Friday evening.<br>• The application was successfully deployed to AWS.<br><br><b>Collocations:</b><br>• deploy to production<br>• deployment pipeline<br>• continuous deployment",
+      "image": null,
+      "skip": false
+    },
+    {
+      "card_no": "003",
+      "suggestion": "Hint: Improve code structure",
+      "explanation": "Let's [...] this legacy codebase to improve maintainability and readability.",
+      "keyword": "refactor",
+      "transcription": "/riːˈfæktə/",
+      "short_meaning": "to restructure code without changing its external behavior",
+      "full_meaning": "<b>Definition:</b> The process of restructuring existing computer code without changing its external behavior, to improve nonfunctional attributes.<br><br><b>Examples:</b><br>• The code was refactored to follow SOLID principles.<br>• Refactoring helps reduce technical debt.<br><br><b>Benefits:</b><br>• Improved code readability<br>• Easier maintenance<br>• Better performance",
+      "image": null,
+      "skip": false
+    },
+    {
+      "card_no": "004",
+      "suggestion": "Hint: Make more efficient",
+      "explanation": "We should [...] the database queries to reduce the response time significantly.",
+      "keyword": "optimize",
+      "transcription": "/ˈɒptɪmaɪz/",
+      "short_meaning": "to make something as effective or functional as possible",
+      "full_meaning": "<b>Definition:</b> To make a system, design, or decision as effective or functional as possible, especially regarding performance.<br><br><b>Examples:</b><br>• The algorithm was optimized to run in O(log n) time.<br>• Optimizing images can significantly improve page load speed.<br><br><b>Common uses:</b><br>• optimize performance<br>• optimize for speed<br>• code optimization",
+      "image": null,
+      "skip": false
+    },
+    {
+      "card_no": "005",
+      "suggestion": "Hint: Ability to grow",
+      "explanation": "The system architecture was designed with [...] in mind to handle millions of users.",
+      "keyword": "scalability",
+      "transcription": "/ˌskeɪləˈbɪləti/",
+      "short_meaning": "the capability of a system to handle growing amounts of work",
+      "full_meaning": "<b>Definition:</b> The capability of a system, network, or process to handle a growing amount of work, or its potential to be enlarged to accommodate that growth.<br><br><b>Types:</b><br>• <u>Horizontal scalability:</u> adding more machines (scale out)<br>• <u>Vertical scalability:</u> adding more power to existing machines (scale up)<br><br><b>Examples:</b><br>• Cloud services provide excellent scalability.<br>• The database was chosen for its scalability features.",
+      "image": null,
+      "skip": false
+    }
+  ]
+}

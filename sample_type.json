@@ -1,0 +1,67 @@
+{
+  "deck_name": "Type Answer - Programming Vocabulary",
+  "tags": ["programming", "type-answer", "active-recall"],
+  "card_type": "type",
+  "cards": [
+    {
+      "front": "We need to [...] the authentication system before deployment.<br><br><i>Hint: find and fix bugs</i>",
+      "back": "debug",
+      "image": null,
+      "skip": false
+    },
+    {
+      "front": "The team will [...] the new version to production tomorrow.<br><br><i>Hint: put into use</i>",
+      "back": "deploy",
+      "image": null,
+      "skip": false
+    },
+    {
+      "front": "Let's [...] this codebase to improve maintainability.<br><br><i>Hint: restructure code</i>",
+      "back": "refactor",
+      "image": null,
+      "skip": false
+    },
+    {
+      "front": "The database queries need to be [...] for better performance.<br><br><i>Hint: make more efficient</i>",
+      "back": "optimized",
+      "image": null,
+      "skip": false
+    },
+    {
+      "front": "We should [...] the API response to only include necessary data.<br><br><i>Hint: remove unnecessary parts</i>",
+      "back": "trim",
+      "image": null,
+      "skip": false
+    },
+    {
+      "front": "The system can [...] to handle millions of users.<br><br><i>Hint: grow in capacity</i>",
+      "back": "scale",
+      "image": null,
+      "skip": false
+    },
+    {
+      "front": "Let's [...] the old dependency to fix security vulnerabilities.<br><br><i>Hint: replace with newer version</i>",
+      "back": "upgrade",
+      "image": null,
+      "skip": false
+    },
+    {
+      "front": "The function should [...] the user input before processing.<br><br><i>Hint: check if correct</i>",
+      "back": "validate",
+      "image": null,
+      "skip": false
+    },
+    {
+      "front": "We need to [...] the changes to the remote repository.<br><br><i>Hint: upload to server</i>",
+      "back": "push",
+      "image": null,
+      "skip": false
+    },
+    {
+      "front": "Always [...] your data regularly to prevent data loss.<br><br><i>Hint: create copies</i>",
+      "back": "backup",
+      "image": null,
+      "skip": false
+    }
+  ]
+}
