@@ -1,0 +1,19 @@
+{
+  "deck_name": "English Vocabulary",
+  "tags": ["english", "vocabulary"],
+  "cards": [
+    {
+      "front": "What does 'debug' mean?",
+      "back": "<b>debug</b><br><br>Nghĩa: tìm và sửa lỗi<br>Example: We need to debug the authentication system before deployment."
+    },
+    {
+      "front": "Translate: 'deploy'",
+      "back": "<b>deploy</b><br><br>Nghĩa: triển khai<br>Collocation: deploy application/code<br>Example: We will deploy the new version tomorrow."
+    },
+    {
+      "front": "What is 'refactor'?",
+      "back": "<b>refactor</b><br><br>Nghĩa: tái cấu trúc code<br>Context: Improving code structure without changing behavior",
+      "tags": ["programming", "tech"]
+    }
+  ]
+}
